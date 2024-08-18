@@ -5,3 +5,14 @@ body {
     height: 100vh;
     margin: 0;
 }
+
+.form-container {
+    background-color: gray;
+    width: 40%;
+    padding: 20px;
+}
+
+.btn-container {
+    display: flex;
+    align-items: center;
+}
